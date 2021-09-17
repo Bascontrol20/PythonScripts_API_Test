@@ -1,0 +1,5 @@
+
+** NodeJS should be install 
+npm install -g json-server 
+Create db.json file with some data
+json-server  --watch db.json

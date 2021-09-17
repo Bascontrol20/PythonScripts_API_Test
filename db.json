@@ -1,0 +1,34 @@
+{
+  "mettings": [
+    {
+      "title": "Google Update",
+      "day": "Sunday",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "title": "Facebook Update!!!",
+      "day": "Saturday!!!"
+    },
+    {
+      "id": 4,
+      "title": "Amazon",
+      "day": "Thursday"
+    },
+    {
+      "id": 5,
+      "title": "Tesla",
+      "day": "Friday"
+    },
+    {
+      "id": "6",
+      "title": "Plan",
+      "day": "Monday"
+    },
+    {
+      "id": "7",
+      "title": "Plan7",
+      "day": "Monday"
+    }
+  ]
+}
